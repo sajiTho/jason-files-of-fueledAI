@@ -1,0 +1,8 @@
+{
+    "MainBody":{
+        "MainHeading":"Delete confirmation required",
+        "Desc":"Are you sure you want to delete this item?",
+        "ButtonLeft":"YES",
+        "ButtonRight":"NO"
+    }
+}

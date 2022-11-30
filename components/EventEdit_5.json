@@ -1,0 +1,32 @@
+{
+    "SideBar":{
+        "HeadingTop":"Step 1",
+        "HeadingBottomLeft":"Inputs",
+        "HeadingBottomRight":"Contains empty fields",
+        "BoxName":"Block Name",
+        "MiddleHaeading":"Execute TRUE branch if ...",
+        "MiddleContainer":{
+            "HeadingTop":"Condition 1",
+            "ContainerTop":"Type or select items",
+            "ContainerCenter":"Number: Less than",
+            "ContainerLast":"Type or select Threshold",
+            "ContainerButton":"AND"
+
+
+        },
+        "ButtonMiddle":"OR",
+        "ButtonMiddleLast":"Next",
+        "HeadingBottomTop":"Step 2",
+        "HeadingBottomBelow":"Complete"
+     },
+   
+        "MainBody":{
+            "Card":"Shopify Trigger",
+            "desc":"Trigger workflow when cart is abandoned",
+        
+            "Card2":"IF-ELSE",
+            "desc2":"Untitled"
+        }
+
+    }
+

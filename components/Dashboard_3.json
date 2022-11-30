@@ -1,0 +1,37 @@
+{
+    "MainBody":{
+        "Card1":{
+            "TopLeftHeading":"Active Plan",
+            "MiddleLeftHeading":"Starter",
+            "BottomLeftIcon":"Workflows active",
+            "BottomLeftRatio":"40 / 44",
+            "TopMiddleHeading":"Plan expires",
+            "MiddleBottomDate":"Mar 12, 2022",
+            "TopRightHeading":"Autorenewal",
+            "MiddlleRightHeading":"Off",
+            "MiddleBottom":"Workflows runs",
+            "MiddleBottomRatio":"72 / 250",
+            "RightButton":"Upgrade"
+
+        
+        },
+        "Card2":{
+            "LeftHeading":"Active Card",
+            "MiddleText":"*1234",
+            "RightText":"Change"
+        
+        }, 
+        "Card3":{
+            "RightHeading":"Contact Info",
+            "CardA":{
+                "TopText":"Company Name",
+                "BottomText":"ABC Company"
+            },
+            "CardB":{
+                "TopText":"Contact Email",
+                "BottomText":"Admin@ABC"
+            }
+        
+        }
+    }
+}

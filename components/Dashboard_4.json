@@ -1,0 +1,52 @@
+{
+    "Card1":{
+        "TopHeading":"Accounting",
+        "SecondHeading":"Workflow Access",
+        "Tagtop":"Analytics",
+        "TagMiddle":"Accounts",
+        "TagRight":"Shipping",
+        "TagBottom":"Inventory",
+        "MiddleHeading":"Team Members",
+        "Text":"+12 more",
+        "ContainerBottom":{
+            "LeftText":"Active Workflows",
+            "LeftNumbers":"12",
+            "RightText":"Workflow runs",
+            "RightNumbers":"200"
+        }
+    },
+
+    "Card2":{
+        "TopHeading":"Marketing",
+        "SecondHeading":"Workflow Access",
+        "Tagtop":"Analytics",
+        "TagMiddle":"Accounts",
+        "TagRight":"Shipping",
+        "TagBottom":"Inventory",
+        "MiddleHeading":"Team Members",
+        "Text":"+12 more",
+        "ContainerBottom":{
+            "LeftText":"Active Workflows",
+            "LeftNumbers":"12",
+            "RightText":"Workflow runs",
+            "RightNumbers":"200"
+        }
+    },
+
+    "Card3":{
+        "TopHeading":"Operations",
+        "SecondHeading":"Workflow Access",
+        "Tagtop":"Analytics",
+        "TagMiddle":"Accounts",
+        "TagRight":"Shipping",
+        "TagBottom":"Inventory",
+        "MiddleHeading":"Team Members",
+        "Text":"+12 more",
+        "ContainerBottom":{
+            "LeftText":"Active Workflows",
+            "LeftNumbers":"12",
+            "RightText":"Workflow runs",
+            "RightNumbers":"200"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "sideBar":{
+        "TopHeading":"Team details",
+        "SubHeading":"Team Name",
+        "SubHeadingText":"Type Name",
+        "SubHeading2":"Workflow access",
+        "SearchButton":"Type to search",
+        "TagLeft":"Analytics",
+        "LeftMiddle":"Accounts",
+        "RightMiddle":"Shipping",
+        "TagRight":"Inventory",
+        "TextHeading":"Invite Message",
+        "Desc":"You have been added to this team and have access to new workflows. Check your Fueled.ai profile!",
+        "Card1Heading":"Max Workflow limit",
+        "Card1Numbers":"15 / 72",
+        "Card2Heading":"Max Run limit",
+        "Card2Numbers":"180 / 250",
+        "Button":"Save and Add",
+        "ButtonLeft":"Save",
+        "ButtonRight":"Cancel"
+
+        },
+        "MainBody":{
+            "BodyHeading":"Team Members",
+            "CenterText":"Add New",
+            "RightText":"Add from other teams",
+            "MemberLeft":"JohnSmith@mail.com",
+            "MemberMiddle":"JillSommers@mail.com",
+            "MemberRight":"MikeGreen@mail.com",
+            "MemberBottom":"SaraS@mail.com"
+        }
+}

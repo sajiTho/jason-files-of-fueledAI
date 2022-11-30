@@ -1,0 +1,56 @@
+{
+    "SideBar":{
+        "Card":{
+            "TopText":"IF-ELSE",
+            "TextBottom":"Untitled"
+        },
+
+            "TextTop":"Step 1",
+            "TextLeft":"Inputs",
+            "TextRight":"Contains empty fields",
+            "TextBottom":"Block Name",
+
+            "MiddleHeading":"Execute TRUE branch if ...",
+            "Container":{
+                "ContainerHeading":"Condition 1",
+                "Card1":"Type or select items",
+                "Card2":"Number: Less than",
+                "Card3":"Type or select Threshold",
+                "Button":"AND"
+
+            },
+
+            "Button1":"OR",
+            "Button2":"Next",
+            "CardLast":{
+                "HeadingTop":"Step 2",
+                "statement":"Complete"
+            }
+
+    },
+
+    "SideBar2":{
+        "TopHeading":"Variable selector",
+        "Card":{
+            "TopText":"Shopify Trigger",
+            "TextBottom":"Trigger workflow when cart is abandoned"
+        }
+    },
+
+    "SideBar3":{
+        "TopHeading":"Variables",
+        "SearchBar":"Search",
+        "Tag1":"Customer ID",
+        "Desc":"- No Example available",
+        "Tag2":"Customer Tags",
+        "Tag3":"Customer Total Spend",
+        "Tag4":"Customer Total Orders",
+        "Tag5":"Total Line Items Price",
+        "Tag6":"Total Price",
+        "Tag7":"Shipping City",
+        "Tag8":"Chipping Country"
+
+    }
+
+    
+}

@@ -1,0 +1,32 @@
+{
+    "SideBar":{
+        "Card":{
+            "TopText":"IF-ELSE",
+            "TextMain":"Abandoned cart scenario"
+        },
+
+            "TextTop":"Step 1",
+            "TextBelow":"Inputs",
+
+            "TextTop2":"Step 2",
+            "TextBelow2":"Complete",
+            "TextBottom":"Trigger set up successfully!",
+
+            "Bar1":"Show sample data",
+            "Bar2":"Run Test",
+            "Buton":"Finish"
+    },
+    "MainBody":{
+        "CardLeft":{
+            "TopHeading":"Shopify Trigger",
+            "Desc":"Trigger workflow when cart is abandoned",
+            "TopRightButton":"No Issues"
+        },
+        "CardCenterTop":{
+            "TopHeading":"IF-ELSE",
+            "Desc":"Untitled",
+            "TopRightButton":"Not Completed"
+
+        }
+     }  
+}

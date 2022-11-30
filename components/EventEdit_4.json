@@ -1,0 +1,28 @@
+{
+        "SideBar":{
+            "sidebarHeading":"Action Blocks",
+            "SearchButton":"Search all blocks",
+            "Button1":"Apps",
+            "Button2":"Utilities",
+            "Button3":"Logic",
+            "Card1":{
+                "TopHeading":"Branch",
+                "Desc":"Route flow based on defined conditions"
+            },
+            "Card2":{
+                "TopHeading":"If-Else",
+                "Desc":"Change path for your workflow depending on set condition"
+            },
+            "Card3":{
+                "TopHeading":"Iterate",
+                "Desc":"Change path for your workflow depending on set condition"
+            },
+            "SidebarBottom":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+        },
+
+        "MainBody":{
+            "Card":"Shopify Trigger",
+            "desc":"Trigger workflow when cart is abandoned"
+        }
+}

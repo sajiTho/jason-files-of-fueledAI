@@ -1,0 +1,33 @@
+{
+    "SideBar":{
+        "MainHeading":"Action Blocks",
+        "SearchButton":"Search all blocks",
+        "Button1":"Apps",
+        "Button2":"Utilities",
+        "Button3":"Logic",
+        "Container":{
+            "HeadingTop":"MailChimp",
+            "HeadingBottom":"Email your customers",
+            "formPortion":"Abandoned Cart"
+        },
+        "Card1":{
+            "TopHeading":"Klaviyo",
+            "Desc":"Email and SMS Platform"
+        }
+
+    },
+
+    "MainBody":{
+        "CardLeft":{
+            "TopHeading":"IF-ELSE",
+            "Desc":"Untitled",
+            "TopRightButton":"No Issues"
+        },
+        "CardCenterTop":{
+            "TopHeading":"MailChimp",
+            "Desc":"Abandoned Cart Template",
+            "TopRightButton":"No Issues"
+
+        }
+     }
+}

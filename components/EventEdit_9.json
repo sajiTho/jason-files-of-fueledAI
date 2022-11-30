@@ -1,0 +1,30 @@
+{
+    "SideBar":{
+        "sidebarHeading":"Action Blocks",
+        "SearchButton":"Search all blocks",
+        "Button1":"Apps",
+        "Button2":"Utilities",
+        "Button3":"Logic",
+        "Card1":{
+            "TopHeading":"MailChimp",
+            "Desc":"Email your customers"
+        },
+        "Card2":{
+            "TopHeading":"Klaviyo",
+            "Desc":"Email and SMS Platform"
+        }
+      },
+
+    "MainBody":{
+        "CardLeft":{
+            "TopHeading":"Shopify Trigger",
+            "Desc":"Trigger workflow when cart is abandoned"
+        },
+        "CardCenter":{
+            "TopHeading":"IF-ELSE",
+            "Desc":"Untitled"
+        }
+    }
+       
+
+}

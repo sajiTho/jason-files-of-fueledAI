@@ -1,0 +1,28 @@
+{
+    "MiddleBody":{
+        "Card1":{
+            "MainHeading":"Trigger workflow when cart is abandoned"
+        },
+        "Card2":{
+            "MainHeading":"Trigger workflow when cart is abandoned"
+        },
+        "Card3":{
+            "MainHeading":"Trigger workflow when cart is abandoned"
+        },
+        "Card4":{
+            "MainHeading":"Trigger workflow when cart is abandoned"
+        }
+    },
+
+    "RightBar":{
+        "LeftText":"Abandoned cart",
+        "MainHeading":"Create a support ticket when you receive a negative review",
+        "Desc":"You can automatically create a Zoho or Freshdesk Support Ticket when a customer leaves a negative review on your shopify store. It is going to make it easier to follow up with them and understand the reasoning behind their dissatisfaction",
+        "MiddleText":"Used Apps",
+        "LeftCenterText":"Recipe creator",
+        "LeftCenterTextBottom":"Fueled.ai",
+        "BottomButton":"Use Recipe",
+        "BottomLeftIcon":"Save",
+        "BottomRightIcon":"Share"
+    }
+}

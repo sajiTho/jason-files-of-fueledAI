@@ -1,0 +1,31 @@
+{
+    "SideBar":{
+        "Card":"Trigger",
+        "desc":"when cart is abandoned",
+        "VerificationSteps":{
+            "HeadingTop":"Step 1",
+            "HeadingBottom":"Authenticated"
+        },
+        "VerificationForm":{
+            "HeadingTop":"Step 2",
+            "HeadingNext":"Inputs",
+            "ButtonRight":"Contains empty fields",
+            "NameBox":"Set Name",
+            "SearchButton":"Search for trigger event",
+            "ButtonLast":"Next",
+            "HeadingBottomTop":"Step 3",
+            "HeadingBottomBelow":"Complete"
+
+
+        },
+
+    
+            "MainBody":{
+                "Card":"Shopify Trigger",
+                "Desc":"Trigger workflow when cart is abandoned"
+            }
+        }
+
+    }
+   
+

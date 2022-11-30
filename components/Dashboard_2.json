@@ -1,0 +1,16 @@
+{
+    "MainBody":{
+        "Card1":{
+            "TopHeading":"Storefronts"
+            
+        },
+        "Card2":{
+            "TopHeading":"Customer Communication"
+        
+        }, 
+        "Card3":{
+            "TopHeading":"Customer Communication"
+        
+        }
+    }
+}

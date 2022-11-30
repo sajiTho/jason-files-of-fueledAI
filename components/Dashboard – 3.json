@@ -1,0 +1,15 @@
+{
+    "TopBar":{
+        "TopLeftHeading":"Company Name",
+        "TopHeadingDesc":"Edit company profile",
+        "TopHeading":"Workflows",
+        "SearchButton":"Search Workflow",
+        "RightText":"Workflows",
+        "RightText2":"0 Active / 44 Remain",
+        "TopBar2":{
+            "SideText":"View All"
+            
+        }
+
+    }
+}

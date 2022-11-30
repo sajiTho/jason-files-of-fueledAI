@@ -1,0 +1,47 @@
+{
+    "SideBar":{
+        "Card":{
+            "TopText":"IF-ELSE",
+            "TextBottom":"Untitled"
+        },
+
+            "TextTop":"Step 1",
+            "TextLeft":"Inputs",
+            "TextRight":"Contains empty fields",
+            "SearchBar":"Abandoned cart scenario",
+
+            "MiddleHeading":"Execute TRUE branch if ...",
+            "Container":{
+                "ContainerHeading":"Condition 1",
+                "Card1":"Total line item price",
+                "Card2":"Number: Less than",
+                "Card3":"Type or select Threshold",
+                "Button":"AND"
+
+            },
+
+            "Button1":"OR",
+            "Button2":"Next",
+            "CardLast":{
+                "HeadingTop":"Step 2",
+                "statement":"Complete"
+            }
+
+    },
+
+    "MainBody":{
+        "CardLeft":{
+            "TopHeading":"Shopify Trigger",
+            "Desc":"Trigger workflow when cart is abandoned",
+            "TopRightButton":"No Issues"
+        },
+        "CardCenterTop":{
+            "TopHeading":"IF-ELSE",
+            "Desc":"Untitled",
+            "TopRightButton":"Not Completed"
+
+        }
+     }
+
+    
+}

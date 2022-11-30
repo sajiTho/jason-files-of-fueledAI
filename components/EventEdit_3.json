@@ -1,0 +1,32 @@
+{
+    "LeftBar":{
+            "CardHeading":"Trigger",
+            "Desc":"When cart is abandonded",
+
+            "SlotTop":{
+                "TextTop":"Step 1",
+                "TextBottom":"Authenticated"
+            },
+            "SlotMiddle":{
+                "TextTop":"Step 2",
+                "TextBottom":"Inputs"
+            },
+            "SlotBottom":{
+                "TextTop":"Step 3",
+                "TextBottom":"Complete",
+                "Desc":"Trigger set up successfully!"
+            },
+
+            "Badge1":"Show sample data",
+            "Badge2":"Run Test",
+            "Button":"Finish"
+    },
+
+    "MainBody":{
+        "Card":{
+            "RightText":"No Issues",
+            "TopText":"Shopify Trigger",
+            "TextHeading":"Trigger workflow when cart is abandoned"
+        }
+    }
+}
